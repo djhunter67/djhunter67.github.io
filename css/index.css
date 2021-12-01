@@ -73,6 +73,7 @@ body {
   height: -moz-min-content;
   height: min-content;
   border-radius: 15px;
+  line-height: 1.2;
 }
 .main-body-hero-text-box h2 {
   padding: 0.6em 1em 0 1em;
